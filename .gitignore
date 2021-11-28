@@ -2,3 +2,6 @@
 venv/
 ENV/
 colab/
+
+# vscode
+.vscode/
