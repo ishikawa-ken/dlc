@@ -5,3 +5,6 @@ colab/
 
 # vscode
 .vscode/
+
+# test directly
+code_test/
