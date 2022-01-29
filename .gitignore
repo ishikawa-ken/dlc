@@ -8,12 +8,8 @@ colab/
 
 # test directly
 code_test/
-week3/data/cifar-10-batches-py/batches.meta
-week3/data/cifar-10-batches-py/data_batch_1
-week3/data/cifar-10-batches-py/data_batch_2
-week3/data/cifar-10-batches-py/data_batch_3
-week3/data/cifar-10-batches-py/data_batch_4
-week3/data/cifar-10-batches-py/data_batch_5
-week3/data/cifar-10-batches-py/readme.html
-week3/data/cifar-10-batches-py/test_batch
-week3/data/cifar-10-python.tar.gz
+
+
+# data
+week3/data/
+week3.5/input/
